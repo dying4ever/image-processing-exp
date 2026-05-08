@@ -1,0 +1,48 @@
+Experiment 3 result summary
+image1 round holes: 5
+image1 C0: center=(145.5,82.0), radius=8.3px, area=91.5px2
+image1 C1: center=(73.0,83.0), radius=8.6px, area=125.0px2
+image1 C2: center=(64.5,162.0), radius=8.3px, area=118.5px2
+image1 C3: center=(57.1,341.8), radius=4.3px, area=36.5px2
+image1 C4: center=(127.5,351.5), radius=5.7px, area=51.0px2
+image1 C0-C1: 72.51px
+image1 C0-C2: 113.85px
+image1 C0-C3: 274.44px
+image1 C0-C4: 270.10px
+image1 C1-C2: 79.46px
+image1 C1-C3: 259.29px
+image1 C1-C4: 273.98px
+image1 C2-C3: 179.96px
+image1 C2-C4: 199.70px
+image1 C3-C4: 71.09px
+image2 slot count: 24
+image2 S0: center=(192.0,94.0), length=108.0px, width=28.0px, area=2836.0px2
+image2 S1: center=(192.9,137.7), length=110.0px, width=28.5px, area=2738.5px2
+image2 S2: center=(195.0,184.0), length=110.0px, width=28.0px, area=2775.5px2
+image2 S3: center=(193.5,227.0), length=109.0px, width=28.0px, area=2884.0px2
+image2 S4: center=(195.0,270.7), length=110.2px, width=28.7px, area=2749.0px2
+image2 S5: center=(195.0,316.5), length=110.0px, width=27.0px, area=2689.0px2
+image2 S6: center=(195.5,360.0), length=111.0px, width=28.0px, area=2892.0px2
+image2 S7: center=(196.0,403.0), length=110.0px, width=28.0px, area=2746.0px2
+image2 S8: center=(197.0,447.5), length=108.2px, width=29.3px, area=2688.0px2
+image2 S9: center=(197.5,493.0), length=111.0px, width=28.0px, area=2857.5px2
+image2 S10: center=(198.5,536.5), length=109.0px, width=29.0px, area=2738.0px2
+image2 S11: center=(199.0,580.0), length=110.0px, width=29.2px, area=2674.0px2
+image2 S12: center=(200.0,626.5), length=110.0px, width=29.0px, area=2848.0px2
+image2 S13: center=(200.5,669.0), length=109.0px, width=28.0px, area=2711.0px2
+image2 S14: center=(200.4,713.0), length=107.0px, width=29.2px, area=2625.0px2
+image2 S15: center=(201.5,759.0), length=109.0px, width=28.0px, area=2839.0px2
+image2 S16: center=(202.5,802.2), length=111.1px, width=28.9px, area=2690.5px2
+image2 S17: center=(202.0,846.2), length=110.2px, width=29.3px, area=2668.0px2
+image2 S18: center=(202.5,892.0), length=111.0px, width=28.0px, area=2836.0px2
+image2 S19: center=(203.5,935.5), length=109.0px, width=29.0px, area=2788.0px2
+image2 S20: center=(202.4,979.1), length=109.1px, width=29.2px, area=2669.5px2
+image2 S21: center=(204.5,1025.0), length=111.0px, width=28.0px, area=2859.5px2
+image2 S22: center=(205.0,1068.5), length=112.0px, width=29.0px, area=2804.5px2
+image2 S23: center=(205.4,1112.6), length=109.2px, width=29.4px, area=2684.0px2
+image3 round holes: 4
+image3 C0: center=(57.5,205.0), radius=15.2px, area=446.0px2
+image3 C1: center=(55.5,487.5), radius=16.8px, area=600.0px2
+image3 C2: center=(51.1,775.4), radius=16.7px, area=548.5px2
+image3 C3: center=(47.2,1057.6), radius=13.0px, area=435.5px2
+image3 top two centers C0-C1: 282.54px

@@ -1,0 +1,7 @@
+Experiment 1 result summary
+Edge source: 齿轮.bmp, shape: (1280, 1280, 3)
+Threshold: 180, contours: 11
+Filter source: 20210416144049781.png, shape: (326, 251, 3)
+Mean/median/gaussian parameters: 5x5, 5, 5x5
+Gaussian Canny threshold: 80,160
+Detection source: 齿轮.bmp, Sobel kernel: 3, Robert kernel: 2x2

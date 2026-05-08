@@ -1,0 +1,13 @@
+Experiment 2 result summary
+Plate segmented character boxes: 7
+Character boxes x,y,w,h: [(81, 104, 40, 80), (135, 73, 58, 112), (233, 73, 56, 112), (299, 73, 55, 112), (364, 73, 56, 112), (429, 73, 56, 112), (495, 73, 40, 112)]
+Component width: 985 px
+Component bbox x,y,w,h: (72, 154, 985, 936)
+Reference width: 24.26 mm
+Pixels per mm: 2.1022
+Detected objects: 6
+O0 to O1: 219.02 px, 104.19 mm
+O0 to O2: 305.58 px, 145.36 mm
+O0 to O3: 390.14 px, 185.58 mm
+O0 to O4: 414.52 px, 197.18 mm
+O0 to O5: 453.20 px, 215.58 mm
